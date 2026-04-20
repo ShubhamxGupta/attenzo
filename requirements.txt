@@ -1,0 +1,15 @@
+numpy # Array
+pandas # Data Frames
+
+scikit-learn # Classification tools 
+dlib-bin # Face Scan
+
+git+https://github.com/ageitgey/face_recognition_models
+setuptools # Package Install
+
+supabase # Database
+bcrypt # Security (Hashing)
+
+segno # QR Code
+pillow # Image Handeling
+streamlit # Interface 
